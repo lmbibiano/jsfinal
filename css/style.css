@@ -62,7 +62,7 @@ body{
 
 
 main p{  
-    font-family: "Alumni Sans Inline One", italic;
+    font-family: 'Strait', sans-serif;
     font-size: 50px;
     color:#D9BAD1;
     text-align: center;     
@@ -79,7 +79,7 @@ marquee .renglones{
     height: 25px;
     font-size: 10px;
     color: #da71be !important;
-    font-family: "Alumni Sans Inline One", italic;
+    font-family: 'Strait', sans-serif;
     margin-left: 10px;
     margin-right: 10px;
     display: flex;
