@@ -59,30 +59,7 @@ body{
     text-decoration: none;
     color:  #591848;
 }
-.cantCarrito{
-    background-color: cyan;
-    color: blanchedalmond;
-    border-radius: 50%;
-    font-size: 12px;
-    padding: 4px;
-    top: 37px;
-    right: 14px;
-    position: absolute;
-    display: none;
-}
-/* main {
-    width: 100%;
-    height: 300px;
 
-
-}
-main p{
-    color: #D9BAD1;
-    font-family: 'Strait', sans-serif;
-    font-size: 45px;
-    margin-left: 40px;
-    text-align: center;
-} */
 .material-symbols-outlined{
     margin-right: 40px;
     font-size: 40px;
