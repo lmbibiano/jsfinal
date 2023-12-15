@@ -60,6 +60,14 @@ body{
     color:  #591848;
 }
 
+
+main p{  
+    font-family: "Alumni Sans Inline One", italic;
+    font-size: 50px;
+    color:#D9BAD1;
+    text-align: center;     
+}
+
 .material-symbols-outlined{
     margin-right: 40px;
     font-size: 40px;
